@@ -1,27 +1,11 @@
-# AssignmentFour
+# Assignment Four
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+## Images
 
-## Development server
+<p align="center">
+<img src="https://github.com/drkuster/Angular-Course-Assignment-4/blob/master/screenshots/game-pic.png?raw=true">
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+For the fourth assignment in Maximilian Schwarzmuller's The Complete Angular Guide course, I was tasked with creating a simple "game". I put game in quotes because it's not really a game. Anyways, when you click the start button, the "game" begins to output numbers counting up from 1 in a 1 second interval. If the number is odd, an orange list item is output with the num. If it's even, a blue list item is output with the num. Pressing the stop button will pause the counter. It can be resumed by pressing the start button again. The point of this assignment was to get multiple components to communicate with each other by passing data back and forth through the app component. 
