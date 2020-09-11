@@ -1,6 +1,6 @@
 # Assignment Four
 
-## Images
+## Screenshot
 
 <p align="center">
 <img src="https://github.com/drkuster/Angular-Course-Assignment-4/blob/master/screenshots/game-pic.png?raw=true">
